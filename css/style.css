@@ -1,0 +1,46 @@
+.nav-item {
+	 text-transform: uppercase;
+	 margin-left:25px;
+	 color: #303181 !important;
+}
+
+
+.navbar-light .navbar-nav .nav-link{
+	font-weight: 700;
+
+	 color: #303181 !important;;
+}
+
+
+.carousel-indicators{
+	margin-left: -640px;
+}
+
+
+.verse {
+	margin-top: -93px;
+	background-color:  #ffff00;
+}
+
+/*nav {
+	height: 60px
+}
+
+*/
+
+.navbar-collapse{
+	margin-left:-15px;
+}
+
+.social {
+	margin: -8px 0px 6px 0px;
+}
+
+.social li{
+	display : inline-block;
+	margin-left: 6px;
+}
+
+.social li a{
+	color:white;
+}
