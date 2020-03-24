@@ -48,3 +48,10 @@ body {
 .social li a{
 	color:white;
 }
+
+
+.date{
+	padding-top: 30px;
+	background-color: #303181;
+	color: #fff;
+}
