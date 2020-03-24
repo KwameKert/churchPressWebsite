@@ -1,5 +1,8 @@
+html, body {
+  overflow-x: hidden;
+}
 body {
-	overflow-x: hidden;
+  position: relative
 }
 
 .nav-item {
@@ -15,6 +18,14 @@ body {
 	 color: #303181 !important;;
 }
 
+.primary {
+	background-color: #303181;
+	color: #fff;
+	  transition-timing-function: ease-in;
+
+
+ 
+}
 
 .carousel-indicators{
 	margin-left: -640px;
@@ -53,5 +64,35 @@ body {
 .date{
 	padding-top: 30px;
 	background-color: #303181;
+	color: #fff;
+}
+
+.week{
+	padding: 15px;
+	background-color: #fff;
+	color: #303181;
+}
+
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #303181;
+    border-color: #303181;
+}
+
+.bg-secondary{
+	color: #fff;
+}
+
+.bg-secondary ul {
+	padding-top: 10px;
+}
+
+.bg-secondary li {
+	list-style: none;
+}
+
+.bg-secondary li a{
 	color: #fff;
 }
