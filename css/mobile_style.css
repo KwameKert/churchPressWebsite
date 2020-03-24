@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px) {
+ .row{
+
+ 	text-align: center;
+ }
+
+ .date {
+ 	padding-top: 10px;
+ }
+
+ .week {
+ 	margin-bottom: 20px;
+ 	width: 100%;
+ }
+
+ .quick_links {
+ 	margin-left:80px;
+ 	text-align: left;
+ }
+}
