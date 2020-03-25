@@ -126,3 +126,12 @@ body {
 	width:560px ;
 	height:315px
 }
+
+
+.contact-icon {
+	font-size: 20px;
+	 color: #fff;
+    border-color: #303181;
+	background-color: #303181;
+	padding:15px;
+}
