@@ -16,16 +16,17 @@ body {
 .navbar-light .navbar-nav .nav-link{
 	font-weight: 700;
 
-	 color: #303181 !important;;
+	 color: #303181 !important;
 }
 
 .primary {
 	background-color: #303181;
 	color: #fff;
 	  transition-timing-function: ease-in;
+}
 
-
- 
+.primary-text {
+	color: #303181 !important;;
 }
 
 .navbar-color {
