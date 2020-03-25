@@ -28,6 +28,10 @@ body {
  
 }
 
+.navbar-color {
+	background-color: #fff;
+}
+
 .carousel-indicators{
 	margin-left: -640px;
 }
@@ -78,10 +82,22 @@ body {
 
 
 .btn-primary {
+	font-weight: 600;
     color: #fff;
     background-color: #303181;
     border-color: #303181;
 }
+
+
+
+
+.btn-primary:hover {
+	font-weight: 600;
+    background-color: #fff;
+    color: #303181;
+    border-color: #303181;
+}
+
 
 .bg-secondary{
 	color: #fff;
