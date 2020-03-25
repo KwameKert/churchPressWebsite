@@ -17,4 +17,10 @@
  	margin-left:80px;
  	text-align: left;
  }
+
+ .live {
+	width:360px ;
+	height:315px;
+	margin-left: -22px;
+}
 }
